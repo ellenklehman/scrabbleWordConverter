@@ -3,5 +3,12 @@ body {
   background: #8caab5;
   color: #425d66;
 }
-
+.header {
+	text-align: center;
+	color: black;
+}
+#scrabble-input, #outcome{
+	text-align: center;
+	display: block;
+}
 
